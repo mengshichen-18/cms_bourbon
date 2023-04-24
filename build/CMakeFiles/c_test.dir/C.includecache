@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/root/bourbon/learned-leveldb/db/c_test.c
+leveldb/c.h
+/root/bourbon/learned-leveldb/db/leveldb/c.h
+stddef.h
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+
+/root/bourbon/learned-leveldb/include/leveldb/c.h
+stdarg.h
+-
+stddef.h
+-
+stdint.h
+-
+leveldb/export.h
+/root/bourbon/learned-leveldb/include/leveldb/leveldb/export.h
+
+/root/bourbon/learned-leveldb/include/leveldb/export.h
+
