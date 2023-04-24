@@ -924,6 +924,7 @@ void VersionSet::AppendVersion(Version* v) {
   if (current_ != nullptr) {
     current_->Unref();
   }
+  std::cout<<"appended current!"<<current_<<std::endl;
   current_ = v;
   v->Ref();
 

@@ -22,6 +22,8 @@ vector<long long int> writetimes;
 vector<long long int> readtimes;
 vector<int> ratios;
 
+vector<int> empty_list;
+
 vector<string> load_keys(string filename){
     ifstream file;
     // file.open("keydataset.dat");
@@ -62,6 +64,7 @@ int SingleTest(int bpk, int err, string readf, string writef){
 
     leveldb::DB* db;
     leveldb::Options options;
+    // options.max_open_files *= 16;
     options.create_if_missing = true;    
 
     string dbpath = "testdb";
@@ -111,31 +114,37 @@ int SingleTest(int bpk, int err, string readf, string writef){
     cout<<"====Write Time: "<<instance0->ReportTime(0)<<endl;
     cout<<"====End Write===="<<endl;
 
-    // sleep(5);
+    VersionSet* cur_set1 = adgMod::db->versions_;
+    Version* current1 = cur_set1->current();
+    printf("LevelSize %d \n", current1->NumFiles(0));
 
-    // delete db;
-    // status = DB::Open(options, dbpath, &db);
-    // adgMod::db->WaitForBackground();
     // cout << status.ToString() << endl;
     // file_data->Report();
     // cout<<"count:"<<adgMod::db->version_count<<endl;
     // Version* current = adgMod::db->versions_->current();
 
     // VersionSet* versions = adgMod::db->versions_;
+    delete db;
+    status = DB::Open(options, dbpath, &db);
+    adgMod::db->vlog->Sync();
+    adgMod::db->WaitForBackground();
+    VersionSet* cur_set = adgMod::db->versions_;
+    Version* current = cur_set->current();
+    current->PrintAll();
+    printf("LevelSize %d \n", current->NumFiles(0));
+    cout<<"count:"<<adgMod::db->version_count<<endl;
+    cout<<current->learned_index_data_.size()<<endl;
 
-
+    for (int i = 1; i < config::kNumLevels; ++i) {
+        LearnedIndexData::Learn(new VersionAndSelf{current, adgMod::db->version_count, current->learned_index_data_[i].get(), i});
+    }
+    current->FileLearn();
     adgMod::Stats* instance1 = adgMod::Stats::GetInstance();
     
 
     std::vector<string> find_keys;
     find_keys = load_keys(readf);
     cout<<find_keys.size()<<" "<<find_keys[2]<<endl;
-
-    // string find_value1;
-    // // db->Put(write_options,"145951029841216459","0");
-    // db->Get(read_options,"662973828464453", &find_value1);
-    // cout<<"Test Done"<<endl;
-
 
     cout<<"====Begin Read===="<<endl;
     instance1->StartTimer(1);
@@ -152,7 +161,8 @@ int SingleTest(int bpk, int err, string readf, string writef){
             // cout<<find_keys[i]<<" "<<find_value<<endl;
         }
         else{
-            // cout<<"Empty: "<<find_keys[i]<<" "<<find_value.size()<<endl;
+            // cout<<"Empty: "<<i<<endl;
+            empty_list.push_back(i);
         }
     }
     instance1->PauseTimer(1);
@@ -178,20 +188,20 @@ int main(){
 
     int data_scale = 100000;
     vector<string> read_file_list;
-    read_file_list.push_back("dataset/" + std::to_string(data_scale) + "/random_rate0_read_" + std::to_string(data_scale) + ".dat");
-    read_file_list.push_back("dataset/" + std::to_string(data_scale) + "/random_rate20_read_" + std::to_string(data_scale) + ".dat");
-    read_file_list.push_back("dataset/" + std::to_string(data_scale) + "/random_rate40_read_" + std::to_string(data_scale) + ".dat");
-    read_file_list.push_back("dataset/" + std::to_string(data_scale) + "/random_rate60_read_" + std::to_string(data_scale) + ".dat");
-    read_file_list.push_back("dataset/" + std::to_string(data_scale) + "/random_rate80_read_" + std::to_string(data_scale) + ".dat");
+    // read_file_list.push_back("dataset/" + std::to_string(data_scale) + "/random_rate0_read_" + std::to_string(data_scale) + ".dat");
+    // read_file_list.push_back("dataset/" + std::to_string(data_scale) + "/random_rate20_read_" + std::to_string(data_scale) + ".dat");
+    // read_file_list.push_back("dataset/" + std::to_string(data_scale) + "/random_rate40_read_" + std::to_string(data_scale) + ".dat");
+    // read_file_list.push_back("dataset/" + std::to_string(data_scale) + "/random_rate60_read_" + std::to_string(data_scale) + ".dat");
+    // read_file_list.push_back("dataset/" + std::to_string(data_scale) + "/random_rate80_read_" + std::to_string(data_scale) + ".dat");
     read_file_list.push_back("dataset/" + std::to_string(data_scale) + "/random_rate100_read_" + std::to_string(data_scale) + ".dat");
 
 
     vector<string> write_file_list;
-    write_file_list.push_back("dataset/" + std::to_string(data_scale) + "/random_rate0_write_" + std::to_string(data_scale) + ".dat");
-    write_file_list.push_back("dataset/" + std::to_string(data_scale) + "/random_rate20_write_" + std::to_string(data_scale) + ".dat");
-    write_file_list.push_back("dataset/" + std::to_string(data_scale) + "/random_rate40_write_" + std::to_string(data_scale) + ".dat");
-    write_file_list.push_back("dataset/" + std::to_string(data_scale) + "/random_rate60_write_" + std::to_string(data_scale) + ".dat");
-    write_file_list.push_back("dataset/" + std::to_string(data_scale) + "/random_rate80_write_" + std::to_string(data_scale) + ".dat");
+    // write_file_list.push_back("dataset/" + std::to_string(data_scale) + "/random_rate0_write_" + std::to_string(data_scale) + ".dat");
+    // write_file_list.push_back("dataset/" + std::to_string(data_scale) + "/random_rate20_write_" + std::to_string(data_scale) + ".dat");
+    // write_file_list.push_back("dataset/" + std::to_string(data_scale) + "/random_rate40_write_" + std::to_string(data_scale) + ".dat");
+    // write_file_list.push_back("dataset/" + std::to_string(data_scale) + "/random_rate60_write_" + std::to_string(data_scale) + ".dat");
+    // write_file_list.push_back("dataset/" + std::to_string(data_scale) + "/random_rate80_write_" + std::to_string(data_scale) + ".dat");
     write_file_list.push_back("dataset/" + std::to_string(data_scale) + "/random_rate100_write_" + std::to_string(data_scale) + ".dat");
 
     int err_bound = 8;
@@ -199,14 +209,14 @@ int main(){
 
 
 
-    for(int i=0; i<6; i++){
+    for(int i=0; i<1; i++){
         cout<<read_file_list[i]<<endl;
         cout<<write_file_list[i]<<endl;
     }
 
     cout<<"======="<<endl;
 
-    for(int i=0; i<6; i++){
+    for(int i=0; i<1; i++){
         SingleTest(bpk, err_bound, read_file_list[i], write_file_list[i]);
     }
 
@@ -222,6 +232,11 @@ int main(){
     cout<<endl<<"Ratios: ";
     for(int i=0; i<ratios.size(); i++){
         cout<<ratios[i]<<" ";
+    }
+
+    ofstream foutw("empty_list.txt");
+    for(int i = 0; i < empty_list.size(); i++) {
+        foutw << empty_list[i] << endl;
     }
 
     return 0;    

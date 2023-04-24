@@ -450,22 +450,6 @@ port/thread_annotations.h
 stdint.h
 -
 
-/root/bourbon/learned-leveldb/util/testharness.cc
-util/testharness.h
-/root/bourbon/learned-leveldb/util/util/testharness.h
-stdlib.h
--
-sys/stat.h
--
-sys/types.h
--
-string
--
-vector
--
-leveldb/env.h
-/root/bourbon/learned-leveldb/util/leveldb/env.h
-
 /root/bourbon/learned-leveldb/util/testharness.h
 stdio.h
 -
@@ -475,12 +459,6 @@ sstream
 -
 leveldb/status.h
 /root/bourbon/learned-leveldb/util/leveldb/status.h
-
-/root/bourbon/learned-leveldb/util/testutil.cc
-util/testutil.h
-/root/bourbon/learned-leveldb/util/util/testutil.h
-util/random.h
-/root/bourbon/learned-leveldb/util/util/random.h
 
 /root/bourbon/learned-leveldb/util/testutil.h
 helpers/memenv/memenv.h
