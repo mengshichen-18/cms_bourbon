@@ -5,6 +5,7 @@
 #include <algorithm>
 #include <cstdint>
 #include <string>
+#include <iostream>
 
 #include "leveldb/comparator.h"
 #include "leveldb/slice.h"
@@ -23,6 +24,7 @@ class BytewiseComparatorImpl : public Comparator {
   virtual const char* Name() const { return "leveldb.BytewiseComparator"; }
 
   virtual int Compare(const Slice& a, const Slice& b) const {
+    // std::cout<<a.ToString()<<" "<<b.ToString()<<std::endl;
     return a.compare(b);
   }
 

@@ -156,7 +156,7 @@ DBImpl::DBImpl(const Options& raw_options, const std::string& dbname)
                                &internal_comparator_)),
       version_count(0) {
         adgMod::db = this;
-        std::cout<<"Set:"<<&adgMod::db<<std::endl;
+        // std::cout<<"Set:"<<&adgMod::db<<std::endl;
         vlog = new adgMod::VLog(dbname_ + "/vlog.txt");
       }
 

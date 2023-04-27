@@ -1,0 +1,555 @@
+
+====Now writing: dataset/1000000/random_rate0_write_1000000.dat and reading: dataset/1000000/random_rate0_read_1000000.dat
+Status: OK
+Current Error: 8
+====Start Write====
+====Write Time: 1115393
+====End Write====
+
+====Now writing: dataset/1000000/random_rate20_write_1000000.dat and reading: dataset/1000000/random_rate20_read_1000000.dat
+Status: OK
+Current Error: 8
+====Start Write====
+====Write Time: 1123443
+====End Write====
+
+====Now writing: dataset/1000000/random_rate40_write_1000000.dat and reading: dataset/1000000/random_rate40_read_1000000.dat
+Status: OK
+Current Error: 8
+====Start Write====
+
+====Now writing: dataset/1000000/random_rate0_write_1000000.dat and reading: dataset/1000000/random_rate0_read_1000000.dat
+Status: OK
+Current Error: 8
+====Start Write====
+====Write Time: 1170076
+====End Write====
+
+====Now writing: dataset/1000000/random_rate0_write_1000000.dat and reading: dataset/1000000/random_rate0_read_1000000.dat
+Status: OK
+Current Error: 8
+====Start Write====
+====Write Time: 1129230
+====End Write====
+
+====Now writing: dataset/1000000/random_rate0_write_1000000.dat and reading: dataset/1000000/random_rate0_read_1000000.dat
+Status: OK
+Current Error: 8
+====Start Write====
+====Write Time: 1105273
+====End Write====
+
+====Now writing: dataset/1000000/random_rate0_write_1000000.dat and reading: dataset/1000000/random_rate0_read_1000000.dat
+Status: OK
+Current Error: 8
+====Start Write====
+====Write Time: 1149188
+====End Write====
+
+====Now writing: dataset/1000000/random_rate0_write_1000000.dat and reading: dataset/1000000/random_rate0_read_1000000.dat
+Status: OK
+Current Error: 8
+====Start Write====
+====Write Time: 1181738
+====End Write====
+
+====Now writing: dataset/1000000/random_rate0_write_1000000.dat and reading: dataset/1000000/random_rate0_read_1000000.dat
+Status: OK
+Current Error: 8
+====Start Write====
+====Write Time: 1150007
+====End Write====
+
+====Now writing: dataset/1000000/random_rate0_write_1000000.dat and reading: dataset/1000000/random_rate0_read_1000000.dat
+Status: OK
+Current Error: 8
+====Start Write====
+====Write Time: 1119941
+====End Write====
+
+====Now writing: dataset/1000000/random_rate0_write_1000000.dat and reading: dataset/1000000/random_rate0_read_1000000.dat
+Status: OK
+Current Error: 8
+====Start Write====
+====Write Time: 1050674
+====End Write====
+
+====Now writing: dataset/1000000/random_rate0_write_1000000.dat and reading: dataset/1000000/random_rate0_read_1000000.dat
+Status: OK
+Current Error: 8
+====Start Write====
+====Write Time: 1073318
+====End Write====
+
+====Now writing: dataset/1000000/random_rate0_write_1000000.dat and reading: dataset/1000000/random_rate0_read_1000000.dat
+Status: OK
+Current Error: 8
+====Start Write====
+====Write Time: 1130201
+====End Write====
+
+====Now writing: dataset/1000000/random_rate0_write_1000000.dat and reading: dataset/1000000/random_rate0_read_1000000.dat
+Status: OK
+Current Error: 8
+====Start Write====
+====Write Time: 1076022
+====End Write====
+
+====Now writing: dataset/1000000/random_rate0_write_1000000.dat and reading: dataset/1000000/random_rate0_read_1000000.dat
+Status: OK
+Current Error: 8
+====Start Write====
+====Write Time: 1067670
+====End Write====
+
+====Now writing: dataset/1000000/random_rate0_write_1000000.dat and reading: dataset/1000000/random_rate0_read_1000000.dat
+Status: OK
+Current Error: 8
+====Start Write====
+====Write Time: 1087721
+====End Write====
+
+====Now writing: dataset/1000000/random_rate0_write_1000000.dat and reading: dataset/1000000/random_rate0_read_1000000.dat
+Status: OK
+Current Error: 8
+====Start Write====
+====Write Time: 1074427
+====End Write====
+
+====Now writing: dataset/1000000/random_rate0_write_1000000.dat and reading: dataset/1000000/random_rate0_read_1000000.dat
+Status: OK
+Current Error: 8
+====Start Write====
+====Write Time: 1106535
+====End Write====
+
+====Now writing: dataset/1000000/random_rate0_write_1000000.dat and reading: dataset/1000000/random_rate0_read_1000000.dat
+Status: OK
+Current Error: 8
+====Start Write====
+====Write Time: 1093491
+====End Write====
+
+====Now writing: dataset/1000000/random_rate0_write_1000000.dat and reading: dataset/1000000/random_rate0_read_1000000.dat
+Status: OK
+Current Error: 8
+====Start Write====
+====Write Time: 1105137
+====End Write====
+
+====Now writing: dataset/1000000/random_rate0_write_1000000.dat and reading: dataset/1000000/random_rate0_read_1000000.dat
+Status: OK
+Current Error: 8
+====Start Write====
+====Write Time: 1118816
+====End Write====
+
+====Now writing: dataset/1000000/random_rate0_write_1000000.dat and reading: dataset/1000000/random_rate0_read_1000000.dat
+Status: OK
+Current Error: 8
+====Start Write====
+====Write Time: 1111591
+====End Write====
+
+====Now writing: dataset/1000000/random_rate0_write_1000000.dat and reading: dataset/1000000/random_rate0_read_1000000.dat
+Status: OK
+Current Error: 8
+====Start Write====
+====Write Time: 1142831
+====End Write====
+Status1: OK
+Status1: OK
+
+====Now writing: dataset/1000000/random_rate0_write_1000000.dat and reading: dataset/1000000/random_rate0_read_1000000.dat
+Status: OK
+Current Error: 8
+====Start Write====
+====Write Time: 1075984
+====End Write====
+Status1: OK
+Status2: OK
+
+====Now writing: dataset/1000000/random_rate0_write_1000000.dat and reading: dataset/1000000/random_rate0_read_1000000.dat
+Status: OK
+Current Error: 8
+====Start Write====
+====Write Time: 1050025
+====End Write====
+
+====Now writing: dataset/1000000/random_rate0_write_1000000.dat and reading: dataset/1000000/random_rate0_read_1000000.dat
+Status: OK
+Current Error: 8
+====Start Write====
+====Write Time: 1118174
+====End Write====
+Status1: OK
+Status2: OK
+
+====Now writing: dataset/1000000/random_rate0_write_1000000.dat and reading: dataset/1000000/random_rate0_read_1000000.dat
+Status: OK
+Current Error: 8
+====Start Write====
+====Write Time: 1104125
+====End Write====
+Status1: OK
+Status2: OK
+There are 0 keys in db.
+Bloom filter size is 0 Byte.
+Train Time: 257343
+1000000 180614523097
+====Begin Read====
+====Read Time: 7797284
+====End Read====
+====Write Time: 1104125
+====Read Time: 7797284
+====Hit ratio: 1 total count: 1000000
+====Train Time: 257343
+
+====Now writing: dataset/1000000/random_rate0_write_1000000.dat and reading: dataset/1000000/random_rate0_read_1000000.dat
+Status: OK
+Current Error: 8
+====Start Write====
+====Write Time: 1098291
+====End Write====
+Status1: OK
+Status2: OK
+
+====Now writing: dataset/1000000/random_rate0_write_1000000.dat and reading: dataset/1000000/random_rate0_read_1000000.dat
+Status: OK
+Current Error: 8
+====Start Write====
+====Write Time: 1146119
+====End Write====
+
+====Now writing: dataset/1000000/random_rate0_write_1000000.dat and reading: dataset/1000000/random_rate0_read_1000000.dat
+Status: OK
+Current Error: 8
+====Start Write====
+====Write Time: 1172057
+====End Write====
+
+====Now writing: dataset/1000000/random_rate0_write_1000000.dat and reading: dataset/1000000/random_rate0_read_1000000.dat
+Status: OK
+Current Error: 8
+====Start Write====
+====Write Time: 1073403
+====End Write====
+
+====Now writing: dataset/1000000/random_rate0_write_1000000.dat and reading: dataset/1000000/random_rate0_read_1000000.dat
+Status: OK
+Current Error: 8
+====Start Write====
+====Write Time: 1170803
+====End Write====
+
+====Now writing: dataset/20/random_rate7_write_20.dat and reading: dataset/20/random_rate7_read_20.dat
+Status: OK
+Current Error: 0
+
+====Now writing: dataset/1000000/random_rate0_write_1000000.dat and reading: dataset/1000000/random_rate0_read_1000000.dat
+Status: OK
+Current Error: 8
+====Start Write====
+====Write Time: 1109891
+====End Write====
+
+====Now writing: dataset/1000000/random_rate0_write_1000000.dat and reading: dataset/1000000/random_rate0_read_1000000.dat
+Status: OK
+Current Error: 8
+====Start Write====
+====Write Time: 1241347
+====End Write====
+There are 615312 keys in db.
+Bloom filter size is 12306240 Byte.
+Train Time: 232550
+1000000 180614523097
+====Begin Read====
+====Read Time: 8038046
+====End Read====
+====Write Time: 1241347
+====Read Time: 8038046
+====Hit ratio: 1 total count: 1000000
+====Train Time: 232550
+
+====Now writing: dataset/1000000/random_rate0_write_1000000.dat and reading: dataset/1000000/random_rate0_read_1000000.dat
+Status: OK
+Current Error: 8
+====Start Write====
+====Write Time: 1160288
+====End Write====
+
+====Now writing: dataset/1000000/random_rate0_write_1000000.dat and reading: dataset/1000000/random_rate0_read_1000000.dat
+Status: OK
+Current Error: 8
+====Start Write====
+====Write Time: 1204406
+====End Write====
+
+====Now writing: dataset/1000000/random_rate0_write_1000000.dat and reading: dataset/1000000/random_rate0_read_1000000.dat
+Status: OK
+Current Error: 8
+====Start Write====
+====Write Time: 1106356
+====End Write====
+
+====Now writing: dataset/1000000/random_rate0_write_1000000.dat and reading: dataset/1000000/random_rate0_read_1000000.dat
+Status: OK
+Current Error: 8
+====Start Write====
+====Write Time: 1124901
+====End Write====
+
+====Now writing: dataset/1000000/random_rate0_write_1000000.dat and reading: dataset/1000000/random_rate0_read_1000000.dat
+Status: OK
+Current Error: 8
+====Start Write====
+====Write Time: 1102194
+====End Write====
+
+====Now writing: dataset/1000000/random_rate0_write_1000000.dat and reading: dataset/1000000/random_rate0_read_1000000.dat
+Status: OK
+Current Error: 8
+====Start Write====
+====Write Time: 1144289
+====End Write====
+
+====Now writing: dataset/1000000/random_rate0_write_1000000.dat and reading: dataset/1000000/random_rate0_read_1000000.dat
+Status: OK
+Current Error: 8
+====Start Write====
+====Write Time: 1168554
+====End Write====
+
+====Now writing: dataset/1000000/random_rate0_write_1000000.dat and reading: dataset/1000000/random_rate0_read_1000000.dat
+Status: OK
+Current Error: 8
+====Start Write====
+====Write Time: 1117577
+====End Write====
+
+====Now writing: dataset/1000000/random_rate0_write_1000000.dat and reading: dataset/1000000/random_rate0_read_1000000.dat
+Status: OK
+Current Error: 8
+====Start Write====
+====Write Time: 1128693
+====End Write====
+
+====Now writing: dataset/1000000/random_rate0_write_1000000.dat and reading: dataset/1000000/random_rate0_read_1000000.dat
+Status: OK
+Current Error: 8
+====Start Write====
+====Write Time: 1137263
+====End Write====
+
+====Now writing: dataset/1000000/random_rate0_write_1000000.dat and reading: dataset/1000000/random_rate0_read_1000000.dat
+Status: OK
+Current Error: 8
+====Start Write====
+====Write Time: 1132412
+====End Write====
+
+====Now writing: dataset/1000000/random_rate0_write_1000000.dat and reading: dataset/1000000/random_rate0_read_1000000.dat
+Status: OK
+Current Error: 8
+====Start Write====
+====Write Time: 1141518
+====End Write====
+
+====Now writing: dataset/1000000/random_rate0_write_1000000.dat and reading: dataset/1000000/random_rate0_read_1000000.dat
+Status: OK
+Current Error: 8
+====Start Write====
+====Write Time: 1115830
+====End Write====
+There are 1 keys in db.
+Bloom filter size is 20 Byte.
+Train Time: 237142
+1000000 180614523097
+====Begin Read====
+====Read Time: 8277302
+====End Read====
+====Write Time: 1115830
+====Read Time: 8277302
+====Hit ratio: 1 total count: 1000000
+====Train Time: 237142
+
+====Now writing: dataset/1000000/random_rate0_write_1000000.dat and reading: dataset/1000000/random_rate0_read_1000000.dat
+Status: OK
+Current Error: 8
+====Start Write====
+====Write Time: 1126034
+====End Write====
+
+====Now writing: dataset/1000000/random_rate0_write_1000000.dat and reading: dataset/1000000/random_rate0_read_1000000.dat
+Status: OK
+Current Error: 8
+====Start Write====
+====Write Time: 1088062
+====End Write====
+
+====Now writing: dataset/1000000/random_rate0_write_1000000.dat and reading: dataset/1000000/random_rate0_read_1000000.dat
+Status: OK
+Current Error: 8
+====Start Write====
+====Write Time: 1111731
+====End Write====
+
+====Now writing: dataset/1000000/random_rate0_write_1000000.dat and reading: dataset/1000000/random_rate0_read_1000000.dat
+Status: OK
+Current Error: 8
+====Start Write====
+====Write Time: 1136685
+====End Write====
+
+====Now writing: dataset/1000000/random_rate0_write_1000000.dat and reading: dataset/1000000/random_rate0_read_1000000.dat
+Status: OK
+Current Error: 8
+====Start Write====
+====Write Time: 1089729
+====End Write====
+
+====Now writing: dataset/1000000/random_rate0_write_1000000.dat and reading: dataset/1000000/random_rate0_read_1000000.dat
+Status: OK
+Current Error: 8
+====Start Write====
+====Write Time: 2322437
+====End Write====
+
+====Now writing: dataset/1000000/random_rate0_write_1000000.dat and reading: dataset/1000000/random_rate0_read_1000000.dat
+Status: OK
+Current Error: 8
+====Start Write====
+====Write Time: 2455909
+====End Write====
+
+====Now writing: dataset/1000000/random_rate0_write_1000000.dat and reading: dataset/1000000/random_rate0_read_1000000.dat
+Status: OK
+Current Error: 8
+====Start Write====
+====Write Time: 2506747
+====End Write====
+There are 999999 keys in db.
+Bloom filter size is 19999980 Byte.
+Train Time: 1
+1000000 180614523097
+====Begin Read====
+====Read Time: 15898350
+====End Read====
+====Write Time: 2506747
+====Read Time: 15898350
+====Hit ratio: 1 total count: 1000000
+====Train Time: 1
+
+====Now writing: dataset/1000000/random_rate0_write_1000000.dat and reading: dataset/1000000/random_rate0_read_1000000.dat
+Status: OK
+Current Error: 8
+====Start Write====
+====Write Time: 1311423
+====End Write====
+There are 995665 keys in db.
+Bloom filter size is 19913300 Byte.
+Train Time: 252730
+1000000 180614523097
+====Begin Read====
+====Read Time: 8168730
+====End Read====
+====Write Time: 1311423
+====Read Time: 8168730
+====Hit ratio: 1 total count: 1000000
+====Train Time: 252730
+
+====Now writing: dataset/1000000/random_rate0_write_1000000.dat and reading: dataset/1000000/random_rate0_read_1000000.dat
+Status: OK
+Current Error: 2
+====Start Write====
+====Write Time: 1212305
+====End Write====
+There are 995665 keys in db.
+Bloom filter size is 19913300 Byte.
+Train Time: 259773
+1000000 180614523097
+====Begin Read====
+====Read Time: 8245771
+====End Read====
+====Write Time: 1212305
+====Read Time: 8245771
+====Hit ratio: 1 total count: 1000000
+====Train Time: 259773
+
+====Now writing: dataset/1000000/random_rate0_write_1000000.dat and reading: dataset/1000000/random_rate0_read_1000000.dat
+Status: OK
+Current Error: 32
+====Start Write====
+====Write Time: 1126713
+====End Write====
+There are 995665 keys in db.
+Bloom filter size is 19913300 Byte.
+Train Time: 249133
+1000000 180614523097
+====Begin Read====
+====Read Time: 7995456
+====End Read====
+====Write Time: 1126713
+====Read Time: 7995456
+====Hit ratio: 1 total count: 1000000
+====Train Time: 249133
+
+====Now writing: dataset/1000000/random_rate0_write_1000000.dat and reading: dataset/1000000/random_rate0_read_1000000.dat
+Status: OK
+Current Error: 32
+====Start Write====
+====Write Time: 1329629
+====End Write====
+There are 995665 keys in db.
+Bloom filter size is 19913300 Byte.
+There are 34 segs in learned-index.
+Learned index size is 34 Byte.
+Train Time: 266254
+1000000 180614523097
+====Begin Read====
+====Read Time: 9651879
+====End Read====
+====Write Time: 1329629
+====Read Time: 9651879
+====Hit ratio: 1 total count: 1000000
+====Train Time: 266254
+
+====Now writing: dataset/1000000/random_rate0_write_1000000.dat and reading: dataset/1000000/random_rate0_read_1000000.dat
+Status: OK
+Current Error: 32
+====Start Write====
+====Write Time: 1300486
+====End Write====
+There are 995665 keys in db.
+Bloom filter size is 19913300 Byte.
+There are 34 segs in learned-index.
+Learned index size is 1088 Byte.
+Train Time: 258180
+1000000 180614523097
+====Begin Read====
+====Read Time: 8771826
+====End Read====
+====Write Time: 1300486
+====Read Time: 8771826
+====Hit ratio: 1 total count: 1000000
+====Train Time: 258180
+
+====Now writing: dataset/1000000/random_rate0_write_1000000.dat and reading: dataset/1000000/random_rate0_read_1000000.dat
+Status: OK
+Current Error: 2
+====Start Write====
+====Write Time: 1323441
+====End Write====
+There are 995665 keys in db.
+Bloom filter size is 9956650 Byte.
+There are 34 segs in learned-index.
+Learned index size is 1088 Byte.
+Train Time: 257761
+1000000 180614523097
+====Begin Read====
+====Read Time: 8675851
+====End Read====
+====Write Time: 1323441
+====Read Time: 8675851
+====Hit ratio: 1 total count: 1000000
+====Train Time: 257761

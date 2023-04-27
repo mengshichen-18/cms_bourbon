@@ -2,6 +2,7 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file. See the AUTHORS file for names of contributors.
 
+#include <iostream>
 #include "leveldb/filter_policy.h"
 
 #include "leveldb/slice.h"
@@ -28,6 +29,7 @@ class BloomFilterPolicy : public FilterPolicy {
   virtual void CreateFilter(const Slice* keys, int n, std::string* dst) const {
     // Compute bloom filter size (in both bits and bytes)
     size_t bits = n * bits_per_key_;
+    
 
     // For small n, we can see a very high false positive rate.  Fix it
     // by enforcing a minimum bloom filter length.
@@ -36,7 +38,9 @@ class BloomFilterPolicy : public FilterPolicy {
     size_t bytes = (bits + 7) / 8;
     bits = bytes * 8;
 
+    
     const size_t init_size = dst->size();
+    // std::cout<<"Size in byte is: "<<init_size<<std::endl;
     dst->resize(init_size + bytes, 0);
     dst->push_back(static_cast<char>(k_));  // Remember # of probes in filter
     char* array = &(*dst)[init_size];

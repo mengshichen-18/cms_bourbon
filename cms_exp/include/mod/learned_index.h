@@ -130,6 +130,7 @@ namespace adgMod {
         std::pair<uint64_t, uint64_t> GetPosition(const Slice& key, int file_num);
         AccumulatedNumEntriesArray* GetAccumulatedArray(int file_num);
         LearnedIndexData* GetModel(int number);
+        int Getmodelsize();
         void Report();
         ~FileLearnedIndexData();
     };

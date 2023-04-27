@@ -322,6 +322,23 @@ namespace adgMod {
         }
     }
 
+    int FileLearnedIndexData::Getmodelsize() {
+        int res = 0;
+        leveldb::MutexLock l(&mutex);
+
+        std::set<uint64_t> live_files;
+        adgMod::db->versions_->AddLiveFiles(&live_files);
+
+        for (size_t i = 0; i < file_learned_index_data.size(); ++i) {
+            auto pointer = file_learned_index_data[i];
+            if (pointer != nullptr && pointer->cost != 0) {
+                // printf("FileModel %lu %d ", i, i > watermark);
+                res += pointer->string_segments.size(); //in seg num
+            }
+        }
+        return res; //in segnum
+    }
+
     void FileLearnedIndexData::Report() {
         leveldb::MutexLock l(&mutex);
 
