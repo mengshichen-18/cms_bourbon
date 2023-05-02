@@ -59,6 +59,7 @@
         "cinttypes": "cpp",
         "typeinfo": "cpp",
         "cassert": "cpp",
-        "iomanip": "cpp"
+        "iomanip": "cpp",
+        "*.in": "cpp"
     }
 }

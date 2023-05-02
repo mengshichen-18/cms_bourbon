@@ -3,6 +3,7 @@
 // found in the LICENSE file. See the AUTHORS file for names of contributors.
 
 #include <fcntl.h>
+#include <iostream>
 #include <table/filter_block.h>
 #include "db/table_cache.h"
 #include "db/filename.h"
@@ -202,12 +203,22 @@ bool TableCache::FillData(const ReadOptions& options, FileMetaData *meta, adgMod
     Cache::Handle* handle = nullptr;
     Status s = FindTable(meta->number, meta->file_size, &handle);
 
+    std::cout<<"data is: "<<data<<std::endl;
+
     if (s.ok()) {
+      std::cout<<"FillData s.ok"<<std::endl;
         Table* table = reinterpret_cast<TableAndFile*>(cache_->Value(handle))->table;
+        std::cout<<"cast done"<<std::endl;
         table->FillData(options, data);
+        std::cout<<"filldata done"<<std::endl;
         cache_->Release(handle);
+        std::cout<<"release done"<<std::endl;
         return true;
-    } else return false;
+        
+    } else {
+        std::cout<<"not ok"<<std::endl;
+        return false;
+      }
 }
 
 

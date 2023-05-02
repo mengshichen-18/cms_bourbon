@@ -1,0 +1,557 @@
+
+=======
+dataset/seg_10/10%_1000000_write.txt
+dataset/seg_10/10%_1000000_write.txt
+
+====Now writing: dataset/seg_10/10%_1000000_write.txt and reading: dataset/seg_10/10%_1000000_rate0_read.txt
+Status: OK
+Current Error: 2
+====Start Write====
+====Write Time: 1118229
+====End Write====
+
+=======
+dataset/seg_10/10%_1000000_write.txt
+dataset/seg_10/10%_1000000_write.txt
+
+====Now writing: dataset/seg_10/10%_1000000_write.txt and reading: dataset/seg_10/10%_1000000_rate20_read.txt
+Status: OK
+Current Error: 2
+====Start Write====
+====Write Time: 1127301
+====End Write====
+
+=======
+dataset/seg_10/10%_1000000_write.txt
+dataset/seg_10/10%_1000000_write.txt
+
+====Now writing: dataset/seg_10/10%_1000000_write.txt and reading: dataset/seg_10/10%_1000000_rate40_read.txt
+Status: OK
+Current Error: 2
+====Start Write====
+
+=======
+dataset/seg_10/10%_1000000_write.txt
+dataset/seg_10/10%_1000000_write.txt
+
+====Now writing: dataset/seg_10/10%_1000000_write.txt and reading: dataset/seg_10/10%_1000000_rate0_read.txt
+Status: OK
+Current Error: 2
+====Start Write====
+====Write Time: 1140517
+====End Write====
+Ready to learn!
+
+=======
+dataset/seg_10/10%_1000000_write.txt
+dataset/seg_10/10%_1000000_write.txt
+
+====Now writing: dataset/seg_10/10%_1000000_write.txt and reading: dataset/seg_10/10%_1000000_rate0_read.txt
+Status: OK
+Current Error: 2
+====Start Write====
+====Write Time: 1145512
+====End Write====
+
+=======
+dataset/seg_10/10%_1000000_write.txt
+dataset/seg_10/10%_1000000_write.txt
+
+====Now writing: dataset/seg_10/10%_1000000_write.txt and reading: dataset/seg_10/10%_1000000_rate0_read.txt
+Status: OK
+Current Error: 2
+====Start Write====
+====Write Time: 1174014
+====End Write====
+
+=======
+dataset/seg_10/10%_1000000_write.txt
+dataset/seg_10/10%_1000000_write.txt
+
+====Now writing: dataset/seg_10/10%_1000000_write.txt and reading: dataset/seg_10/10%_1000000_rate0_read.txt
+Status: OK
+Current Error: 2
+====Start Write====
+====Write Time: 1216480
+====End Write====
+
+=======
+dataset/seg_10/10%_1000000_write.txt
+dataset/seg_10/10%_1000000_write.txt
+
+====Now writing: dataset/seg_10/10%_1000000_write.txt and reading: dataset/seg_10/10%_1000000_rate0_read.txt
+Status: OK
+Current Error: 2
+====Start Write====
+====Write Time: 1102655
+====End Write====
+Ready to learn!
+
+=======
+dataset/seg_10/10%_1000000_write.txt
+dataset/seg_10/10%_1000000_write.txt
+
+====Now writing: dataset/seg_10/10%_1000000_write.txt and reading: dataset/seg_10/10%_1000000_rate0_read.txt
+Status: OK
+Current Error: 2
+====Start Write====
+====Write Time: 1121716
+====End Write====
+Ready to learn!
+There are 34 segs in learned-index.
+Learned index size is 1088 Byte.
+Train Time: 477525
+1000000 000002288228
+====Begin Read====
+====Read Time: 15917761
+====End Read====
+====Write Time: 1121716
+====Read Time: 15917761
+====Hit ratio: 995666 total count: 1000000
+====Train Time: 477525
+
+=======
+dataset/seg_10/10%_1000_write.txt
+dataset/seg_10/10%_1000_write.txt
+
+====Now writing: dataset/seg_10/10%_1000_write.txt and reading: dataset/seg_10/10%_1000_rate0_read.txt
+Status: OK
+Current Error: 2
+====Start Write====
+====Write Time: 614
+====End Write====
+Ready to learn!
+There are 0 segs in learned-index.
+Learned index size is 0 Byte.
+Train Time: 14
+1000 000000001189
+====Begin Read====
+====Read Time: 59
+====End Read====
+====Write Time: 614
+====Read Time: 59
+====Hit ratio: 0 total count: 1000
+====Train Time: 14
+
+=======
+dataset/seg_10/10%_1000000_write.txt
+dataset/seg_10/10%_1000000_write.txt
+
+====Now writing: dataset/seg_10/10%_1000000_write.txt and reading: dataset/seg_10/10%_1000000_rate0_read.txt
+Status: OK
+Current Error: 2
+
+=======
+dataset/seg_10/10%_1000000_write.txt
+dataset/seg_10/10%_1000000_write.txt
+
+====Now writing: dataset/seg_10/10%_1000000_write.txt and reading: dataset/seg_10/10%_1000000_rate0_read.txt
+Status: OK
+Current Error: 2
+
+=======
+dataset/seg_10/10%_1000000_write.txt
+dataset/seg_10/10%_1000000_write.txt
+
+====Now writing: dataset/seg_10/10%_1000000_write.txt and reading: dataset/seg_10_1000000/10%_1000000_rate0_read.txt
+Status: OK
+Current Error: 2
+
+=======
+dataset/seg_10_1000000/10%_1000000_write.txt
+dataset/seg_10_1000000/10%_1000000_write.txt
+
+====Now writing: dataset/seg_10_1000000/10%_1000000_write.txt and reading: dataset/seg_10_1000000/10%_1000000_rate0_read.txt
+Status: OK
+Current Error: 2
+====Start Write====
+====Write Time: 1192527
+====End Write====
+Ready to learn!
+There are 34 segs in learned-index.
+Learned index size is 1088 Byte.
+Train Time: 263953
+1000000 000002288228
+====Begin Read====
+====Read Time: 8293398
+====End Read====
+====Write Time: 1192527
+====Read Time: 8293398
+====Hit ratio: 995666 total count: 1000000
+====Train Time: 263953
+
+=======
+dataset/seg_10_1000000/10%_1000000_write.txt
+dataset/seg_10_1000000/10%_1000000_write.txt
+
+====Now writing: dataset/seg_10_1000000/10%_1000000_write.txt and reading: dataset/seg_10_1000000/10%_1000000_rate0_read.txt
+Status: OK
+Current Error: 2
+====Start Write====
+====Write Time: 1129012
+====End Write====
+
+=======
+dataset/seg_10_1000000/10%_1000000_write.txt
+dataset/seg_10_1000000/10%_1000000_write.txt
+
+====Now writing: dataset/seg_10_1000000/10%_1000000_write.txt and reading: dataset/seg_10_1000000/10%_1000000_rate0_read.txt
+Status: OK
+Current Error: 2
+====Start Write====
+====Write Time: 1163270
+====End Write====
+Ready to learn!
+There are 34 segs in learned-index.
+Learned index size is 1088 Byte.
+Train Time: 257051
+1000000 000002288228
+====Begin Read====
+====Read Time: 8122568
+====End Read====
+====Write Time: 1163270
+====Read Time: 8122568
+====Hit ratio: 995666 total count: 1000000
+====Train Time: 257051
+
+=======
+dataset/seg_10_1000000/10%_1000000_write.txt
+dataset/seg_10_1000000/10%_1000000_write.txt
+
+====Now writing: dataset/seg_10_1000000/10%_1000000_write.txt and reading: dataset/seg_10_1000000/10%_1000000_rate0_read.txt
+Status: OK
+Current Error: 2
+====Start Write====
+====Write Time: 1219302
+====End Write====
+Ready to learn!
+There are 34 segs in learned-index.
+Learned index size is 1088 Byte.
+Train Time: 242179
+1000000 000002288228
+====Begin Read====
+====Read Time: 8260971
+====End Read====
+====Write Time: 1219302
+====Read Time: 8260971
+====Hit ratio: 995666 total count: 1000000
+====Train Time: 242179
+
+=======
+dataset/seg_10_1000000/10%_1000000_write.txt
+dataset/seg_10_1000000/10%_1000000_write.txt
+
+====Now writing: dataset/seg_10_1000000/10%_1000000_write.txt and reading: dataset/seg_10_1000000/10%_1000000_rate0_read.txt
+Status: OK
+Current Error: 2
+====Start Write====
+====Write Time: 1208577
+====End Write====
+
+=======
+dataset/seg_10_1000000/10%_1000000_write.txt
+dataset/seg_10_1000000/10%_1000000_write.txt
+
+====Now writing: dataset/seg_10_1000000/10%_1000000_write.txt and reading: dataset/seg_10_1000000/10%_1000000_rate0_read.txt
+Status: OK
+Current Error: 2
+====Start Write====
+====Write Time: 1130237
+====End Write====
+
+=======
+dataset/seg_10_1000000/10%_1000000_write.txt
+dataset/seg_10_1000000/10%_1000000_write.txt
+
+====Now writing: dataset/seg_10_1000000/10%_1000000_write.txt and reading: dataset/seg_10_1000000/10%_1000000_rate0_read.txt
+Status: OK
+Current Error: 2
+====Start Write====
+====Write Time: 1295146
+====End Write====
+
+=======
+dataset/seg_10_1000000/10%_1000000_write.txt
+dataset/seg_10_1000000/10%_1000000_write.txt
+
+====Now writing: dataset/seg_10_1000000/10%_1000000_write.txt and reading: dataset/seg_10_1000000/10%_1000000_rate0_read.txt
+Status: OK
+Current Error: 2
+====Start Write====
+====Write Time: 1313359
+====End Write====
+
+=======
+dataset/seg_10_1000000/10%_1000000_write.txt
+dataset/seg_10_1000000/10%_1000000_write.txt
+
+====Now writing: dataset/seg_10_1000000/10%_1000000_write.txt and reading: dataset/seg_10_1000000/10%_1000000_rate0_read.txt
+Status: OK
+Current Error: 2
+====Start Write====
+====Write Time: 1305896
+====End Write====
+
+=======
+dataset/seg_10_1000000/10%_1000000_write.txt
+dataset/seg_10_1000000/10%_1000000_write.txt
+
+====Now writing: dataset/seg_10_1000000/10%_1000000_write.txt and reading: dataset/seg_10_1000000/10%_1000000_rate0_read.txt
+Status: OK
+Current Error: 2
+====Start Write====
+====Write Time: 1257215
+====End Write====
+Ready to learn!
+There are 34 segs in learned-index.
+Learned index size is 1088 Byte.
+Train Time: 281623
+1000000 000002288228
+====Begin Read====
+
+=======
+dataset/seg_10_1000000/10%_1000000_write.txt
+dataset/seg_10_1000000/10%_1000000_write.txt
+
+====Now writing: dataset/seg_10_1000000/10%_1000000_write.txt and reading: dataset/seg_10_1000000/10%_1000000_rate0_read.txt
+Status: OK
+Current Error: 2
+====Start Write====
+====Write Time: 1269757
+====End Write====
+
+=======
+dataset/seg_10_1000000/10%_1000000_write.txt
+dataset/seg_10_1000000/10%_1000000_write.txt
+
+====Now writing: dataset/seg_10_1000000/10%_1000000_write.txt and reading: dataset/seg_10_1000000/10%_1000000_rate0_read.txt
+Status: OK
+Current Error: 2
+====Start Write====
+====Write Time: 1284000
+====End Write====
+
+=======
+dataset/seg_10_1000000/10%_1000000_write.txt
+dataset/seg_10_1000000/10%_1000000_write.txt
+
+====Now writing: dataset/seg_10_1000000/10%_1000000_write.txt and reading: dataset/seg_10_1000000/10%_1000000_rate0_read.txt
+Status: OK
+Current Error: 2
+====Start Write====
+====Write Time: 1336431
+====End Write====
+
+=======
+dataset/seg_10_1000000/10%_1000000_write.txt
+dataset/seg_10_1000000/10%_1000000_write.txt
+
+====Now writing: dataset/seg_10_1000000/10%_1000000_write.txt and reading: dataset/seg_10_1000000/10%_1000000_rate0_read.txt
+Status: OK
+Current Error: 2
+====Start Write====
+====Write Time: 1353028
+====End Write====
+Ready to learn!
+There are 34 segs in learned-index.
+Learned index size is 1088 Byte.
+Train Time: 281111
+
+=======
+dataset/seg_10_1000000/10%_1000000_write.txt
+dataset/seg_10_1000000/10%_1000000_write.txt
+
+====Now writing: dataset/seg_10_1000000/10%_1000000_write.txt and reading: dataset/seg_10_1000000/10%_1000000_rate0_read.txt
+Status: OK
+Current Error: 2
+====Start Write====
+====Write Time: 1250471
+====End Write====
+Ready to learn!
+There are 34 segs in learned-index.
+Learned index size is 1088 Byte.
+Train Time: 265807
+1000000 000002288228
+====Begin Read====
+====Read Time: 8485820
+====End Read====
+====Write Time: 1250471
+====Read Time: 8485820
+====Hit ratio: 995666 total count: 1000000
+====Train Time: 265807
+
+=======
+dataset/seg_10_1000000/10%_1000000_write.txt
+dataset/seg_10_1000000/10%_1000000_write.txt
+
+====Now writing: dataset/seg_10_1000000/10%_1000000_write.txt and reading: dataset/seg_10_1000000/10%_1000000_rate0_read.txt
+Status: OK
+Current Error: 2
+====Start Write====
+====Write Time: 1309257
+====End Write====
+
+=======
+dataset/seg_10_1000000/10%_1000000_write.txt
+dataset/seg_10_1000000/10%_1000000_write.txt
+
+====Now writing: dataset/seg_10_1000000/10%_1000000_write.txt and reading: dataset/seg_10_1000000/10%_1000000_rate0_read.txt
+Status: OK
+Current Error: 2
+====Start Write====
+====Write Time: 2567052
+====End Write====
+Ready to learn!
+Train Time: 16
+1000000 000002288228
+====Begin Read====
+====Read Time: 12256724
+====End Read====
+====Write Time: 2567052
+====Read Time: 12256724
+====Hit ratio: 1000000 total count: 1000000
+====Train Time: 16
+
+=======
+dataset/seg_10_1000000/10%_1000000_write.txt
+dataset/seg_10_1000000/10%_1000000_write.txt
+
+====Now writing: dataset/seg_10_1000000/10%_1000000_write.txt and reading: dataset/seg_10_1000000/10%_1000000_rate0_read.txt
+Status: OK
+Current Error: 2
+====Start Write====
+====Write Time: 1303847
+====End Write====
+
+=======
+dataset/seg_10_1000000/10%_1000000_write.txt
+dataset/seg_10_1000000/10%_1000000_write.txt
+
+====Now writing: dataset/seg_10_1000000/10%_1000000_write.txt and reading: dataset/seg_10_1000000/10%_1000000_rate0_read.txt
+Status: OK
+Current Error: 2
+====Start Write====
+====Write Time: 1207791
+====End Write====
+Ready to learn!
+
+=======
+dataset/seg_10_1000000/10%_1000000_write.txt
+dataset/seg_10_1000000/10%_1000000_write.txt
+
+====Now writing: dataset/seg_10_1000000/10%_1000000_write.txt and reading: dataset/seg_10_1000000/10%_1000000_rate0_read.txt
+Status: OK
+Current Error: 2
+====Start Write====
+====Write Time: 1293936
+====End Write====
+
+=======
+dataset/seg_10_1000000/10%_1000000_write.txt
+dataset/seg_10_1000000/10%_1000000_write.txt
+
+====Now writing: dataset/seg_10_1000000/10%_1000000_write.txt and reading: dataset/seg_10_1000000/10%_1000000_rate0_read.txt
+Status: OK
+Current Error: 2
+====Start Write====
+====Write Time: 1322216
+====End Write====
+Ready to learn!
+
+=======
+dataset/seg_10_1000000/10%_1000000_write.txt
+dataset/seg_10_1000000/10%_1000000_write.txt
+
+====Now writing: dataset/seg_10_1000000/10%_1000000_write.txt and reading: dataset/seg_10_1000000/10%_1000000_rate0_read.txt
+Status: OK
+Current Error: 2
+====Start Write====
+====Write Time: 1235674
+====End Write====
+
+=======
+dataset/seg_10_1000000/10%_1000000_write.txt
+dataset/seg_10_1000000/10%_1000000_write.txt
+
+====Now writing: dataset/seg_10_1000000/10%_1000000_write.txt and reading: dataset/seg_10_1000000/10%_1000000_rate0_read.txt
+Status: OK
+Current Error: 2
+====Start Write====
+====Write Time: 1226294
+====End Write====
+Got sync
+Gonna delete
+deleted
+Opened
+Ready to learn!
+There are 34 segs in learned-index.
+Learned index size is 1088 Byte.
+Train Time: 268097
+1000000 000002288228
+====Begin Read====
+
+=======
+dataset/seg_10_1000000/10%_1000000_write.txt
+dataset/seg_10_1000000/10%_1000000_write.txt
+
+====Now writing: dataset/seg_10_1000000/10%_1000000_write.txt and reading: dataset/seg_10_1000000/10%_1000000_rate0_read.txt
+Status: OK
+Current Error: 2
+====Start Write====
+====Write Time: 1200239
+====End Write====
+Got sync
+Gonna delete
+deleted
+Opened
+Ready to learn!
+There are 34 segs in learned-index.
+Learned index size is 1088 Byte.
+Train Time: 267147
+
+=======
+dataset/seg_10_1000000/10%_1000000_write.txt
+dataset/seg_10_1000000/10%_1000000_write.txt
+
+====Now writing: dataset/seg_10_1000000/10%_1000000_write.txt and reading: dataset/seg_10_1000000/10%_1000000_rate0_read.txt
+Status: OK
+Current Error: 2
+====Start Write====
+====Write Time: 1312705
+====End Write====
+Got sync
+Gonna delete
+deleted
+Opened
+Ready to learn!
+There are 34 segs in learned-index.
+Learned index size is 1088 Byte.
+Train Time: 278355
+
+=======
+dataset/seg_10_1000000/10%_1000000_write.txt
+dataset/seg_10_1000000/10%_1000000_write.txt
+
+====Now writing: dataset/seg_10_1000000/10%_1000000_write.txt and reading: dataset/seg_10_1000000/10%_1000000_rate0_read.txt
+Status: OK
+Current Error: 2
+====Start Write====
+====Write Time: 1247563
+====End Write====
+Got sync
+Gonna delete
+deleted
+
+=======
+dataset/seg_10_1000000/10%_1000000_write.txt
+dataset/seg_10_1000000/10%_1000000_write.txt
+
+====Now writing: dataset/seg_10_1000000/10%_1000000_write.txt and reading: dataset/seg_10_1000000/10%_1000000_rate0_read.txt
+Status: OK
+Current Error: 2
+====Start Write====
+====Write Time: 1306290
+====End Write====
+Got sync
+Gonna delete
+deleted

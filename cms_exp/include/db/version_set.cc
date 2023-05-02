@@ -1758,6 +1758,7 @@ void Version::PrintAll() const {
 }
 
 bool Version::FillData(const ReadOptions &options, FileMetaData *meta, adgMod::LearnedIndexData* data) {
+  std::cout<<"In Version::FillData: "<< meta<<" "<<data<<std::endl;
     return vset_->table_cache_->FillData(options, meta, data);
 }
 

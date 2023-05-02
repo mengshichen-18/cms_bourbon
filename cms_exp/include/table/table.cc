@@ -300,6 +300,7 @@ uint64_t Table::ApproximateOffsetOf(const Slice& key) const {
 }
 
 void Table::FillData(const ReadOptions& options, adgMod::LearnedIndexData* data) {
+  std::cout<<"table::Filldata::data is"<<data<<std::endl;
     if (data->filled) return;
     //data->string_keys.clear();
     //data->num_entries_accumulated.array.clear();
